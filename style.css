@@ -1,0 +1,22 @@
+body {
+    background-color: #f9e6f2; /* Light pink background */
+    color: #ff66b2; /* Soft pink text color */
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* Fun, playful font */
+}
+
+h1, h2, h3 {
+    color: #ff99cc; /* Lighter pink for headings */
+}
+
+p {
+    line-height: 1.6; /* Improved readability */
+}
+
+a {
+    color: #ff66b2; /* Link color */
+    text-decoration: none; /* No underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
